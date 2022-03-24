@@ -19,7 +19,7 @@ A concurrent segment tree can be implemented using locks and atomics to ensure t
 Implementing concurrent data structures poses a fundamental challenge of allowing progress on multiple threads while maintaining some form of correctness. It is also difficult to incorporate lock-freeness in most data structures since the implementer is limited to a set of intrinsics and primitives and must be very careful about the potential race conditions that may result. Through undertaking this project, we hope to gain experience reasoning about the nuances of lock-free and concurrent data structures as well as programming for high performance on specific hardware.
 
 ## Resources
-We will start the implementation from scratch and follow the paper ("Parallel Range, Segment and Rectangle Queries with Augmented Maps")[https://www.cs.cmu.edu/~yihans/papers/geometry.pdf] and ("Implementing Parallel and Concurrent Tree Structures")[https://www.cs.cmu.edu/~yihans/papers/tutorial.pdf] as a reference. We plan on benchmarking our implementation with MPI, ISPC, and pthreads to benchmark our implementation. The benchmarks will be performed on CMU's GHC cluster.
+We will start the implementation from scratch and follow the papers ["Parallel Range, Segment and Rectangle Queries with Augmented Maps"](https://www.cs.cmu.edu/~yihans/papers/geometry.pdf) and ["Implementing Parallel and Concurrent Tree Structures"](https://www.cs.cmu.edu/~yihans/papers/tutorial.pdf) for reference. We plan on benchmarking our implementation with MPI, ISPC, and pthreads to benchmark our implementation. The benchmarks will be performed on CMU's GHC cluster.
 
 ## Goals & Deliverables
 - Do background research on current solutions to range queries
