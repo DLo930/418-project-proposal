@@ -43,3 +43,21 @@ We will start the implementation from scratch and follow the papers ["Parallel R
 - 4/29: Submit report by midnight
 - 4/30 - 5/4: Prepare final board presentation
 - 5/5: Final presentation
+
+## Milestone
+- The sequential version of the Segment Tree has been implemented
+- Background reading on reference papers done
+- Completed first iteration of designing the parallel version
+
+We are roughly a week behind our original schedule but we believe we can still meet the 100% deliverable. However, the stretch goal may be difficult to meet given the unknown amount of time implementation and testing may require. We plan to show speedup graphs as stated in the proposal. The main concerns over the next few weeks is being able to iterate on the parallel segment tree design for performance. 
+
+### Updated Goals & Deliverables
+- 4/12 - 4/15: Design and implement ISPC version (Dennis)
+- 4/15 - 4/17: Benchmark baseline and experimental, generate speedup graphs (Shize)
+- 4/18 - 4/20: Implement pthread version (Dennis)
+- 4/21 - 4/22: Benchmark pthread version (Shize)
+- 4/22 - 4/25: Optimize implementations (Dennis)
+- 4/25 - 4/28: Prepare final report (Dennis/Shize)
+- 4/29: Submit report by midnight
+- 4/30 - 5/4: Prepare final board presentation
+- 5/5: Final presentation
