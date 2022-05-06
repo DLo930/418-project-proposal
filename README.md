@@ -61,3 +61,5 @@ We are roughly a week behind our original schedule but we believe we can still m
 - 4/29: Submit report by midnight
 - 4/30 - 5/4: Prepare final board presentation
 - 5/5: Final presentation
+
+## [Video Presentation](https://drive.google.com/file/d/10MrCs9tRf7qya3JMK6J3gDEZtoARmCLG/view?usp=sharing)
