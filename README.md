@@ -63,4 +63,5 @@ We are roughly a week behind our original schedule but we believe we can still m
 - 5/5: Final presentation
 
 ## [Project Report](https://drive.google.com/file/d/1ZKmkmUwxTWR5sqqEJkomiquAgeuUStIL/view?usp=sharing)
-## [Video Presentation](https://drive.google.com/file/d/10MrCs9tRf7qya3JMK6J3gDEZtoARmCLG/view?usp=sharing)
+## [Video Presentation](https://youtu.be/T8WK-mwWz0Y)
+## [Code Repo](https://github.com/DLo930/418-final-project.git)
